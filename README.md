@@ -7,6 +7,6 @@
   - Wrote the prolog code for parent and grand/step parent relationships as well as the facts for spouses.
 
 - **Jaafar Abdeen**
-  - Developed the pseudocode, did the background for the writeup and handled the rules, facts, and running for the code..
+  - Developed the pseudocode, did the background for the writeup and handled the rules, facts, and running for the code.
 
 - **Isaiah Brown**
